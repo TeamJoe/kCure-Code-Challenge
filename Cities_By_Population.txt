@@ -1,0 +1,86 @@
+83
+
+New York, New York
+Interstates: I-78, I-80, I-87, I-95
+
+27
+
+Chicago, Illinois
+Interstates: I-55, I-57, I-88, I-90, I-94
+
+15
+
+Philadelphia, Pennsylvania
+Interstates: I-76, I-95
+
+12
+
+Dallas, Texas
+Interstates: I-20, I-30, I-35, I-45
+
+10
+
+San Jose, Cali
+Interstates: I-405
+
+San Jose, California
+Interstates: I-5, I-80
+
+8
+
+Jacksonville, Florida
+Interstates: I-10, I-95
+
+Columbus, Ohio
+Interstates: I-70, I-71
+
+7
+
+El Paso, Texas
+Interstates: I-10, I-25
+
+6
+
+Kansas City, Kansas
+Interstates: I-29, I-35, I-49, I-70
+
+Boston, Massachusetts
+Interstates: I-90, I-93
+
+Oklahoma City, Oklahoma
+Interstates: I-35, I-40, I-44
+
+Portland, Oregon
+Interstates: I-5, I-84
+
+Nashville, Tennessee
+Interstates: I-24, I-40, I-65
+
+Seattle, Washington
+Interstates: I-5, I-90
+
+5
+
+Tucson, Arizona
+Interstates: I-10, I-19
+
+Long Beach, California
+Interstates: I-5, I-10
+
+4
+
+Bakersfield, California
+Interstates: I-5
+
+Oakland, California
+Interstates: I-80
+
+Atlanta, Georgia
+Interstates: I-20, I-75, I-86
+
+Cleveland, Ohio
+Interstates: I-71, I-77, I-80, I-90
+
+Arlington, Texas
+Interstates: I-20, I-30
+
